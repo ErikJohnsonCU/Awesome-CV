@@ -1,7 +1,7 @@
-# Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+# Awesome CV [![resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
 
 
-[**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+This is Erik's resume! It was made using the fantastic [**Awesome CV**](https://github.com/posquit0/Awesome-CV) template created by [**posquit0**](https://github.com/posquit0). This LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** was inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
 
 
 ## Table of contents
@@ -10,7 +10,6 @@
 * [Quick Start](#quick-start)
 * [How to Use](#how-to-use)
 * [Credit](#credit)
-* [Contact](#contact)
 
 
 ## <a name="preview"></a>Preview
@@ -60,6 +59,8 @@ This should result in the creation of ``{your-cv}.pdf``
 
 ## <a name="credit">Credit
 
+[**posquit0**](https://github.com/posquit0) is a software engineering from Korea who has made excellent contributions (including this fantastic template) to the open source community. I'll also link [his website](https://posquit0.com/) if you want to know more about him.
+
 [**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
 [**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) is bindings for FontAwesome icons to be used in XeLaTeX.
@@ -67,12 +68,3 @@ This should result in the creation of ``{your-cv}.pdf``
 [**Roboto**](https://github.com/google/roboto) is the default font on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
 
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
-
-
-## <a name="contact">Contact
-
-You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
-
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
-
-Good luck!
