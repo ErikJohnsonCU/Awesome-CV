@@ -1,35 +1,13 @@
 # Awesome CV [![resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
 
 
-This is Erik's resume! It was made using the fantastic [**Awesome CV**](https://github.com/posquit0/Awesome-CV) template created by [**posquit0**](https://github.com/posquit0). This LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** was inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
+This is ecmjohnson's resume! It was made using the fantastic [**Awesome CV**](https://github.com/posquit0/Awesome-CV) template created by [**posquit0**](https://github.com/posquit0). This LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** was inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
 
+## My Résumé
 
-## Table of contents
+Feel free to check out the résumé I built using this template [PDF](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
 
-* [Preview](#preview)
-* [Quick Start](#quick-start)
-* [How to Use](#how-to-use)
-* [Credit](#credit)
-
-
-## <a name="preview"></a>Preview
-
-#### Résumé
-
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
-
-![Résumé(Page 1)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)
-![Résumé(Page 2)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)
-
-#### Cover Letter
-
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
-
-![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)
-![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)
-
-
-## <a name="quick-start">Quick Start
+## Quick start your own
 
 * [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
 * [**Edit Résumé on ShareLaTeX.com**](https://www.sharelatex.com/templates/cv-or-resume/awesome-cv)
@@ -38,26 +16,15 @@ You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/e
 
 **_Note:_ Above services do not guarantee up-to-date source code of Awesome CV**
 
+## Slow start your own
 
-## <a name="how-to-use">How to Use
-
-#### Requirements
-
+Highly recommended to start with your own fork of [posqui0's branch](https://github.com/posquit0/Awesome-CV).
 A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
 You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.)
-
-#### Usage
-
-At a command prompt, run
-
-```bash
-$ xelatex {your-cv}.tex
-```
-
-This should result in the creation of ``{your-cv}.pdf``
+I would also recommend using a real-time build system like `latexmk` with a continuously updating viewer like Okular.
 
 
-## <a name="credit">Credit
+## Credit
 
 [**posquit0**](https://github.com/posquit0) is a software engineering from Korea who has made excellent contributions (including this fantastic template) to the open source community. I'll also link [his website](https://posquit0.com/) if you want to know more about him.
 
