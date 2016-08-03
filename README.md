@@ -1,4 +1,4 @@
-# Awesome CV [![resume](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
+# Erik Johnson Résumé [![resume](https://img.shields.io/badge/resume-perfect-brightgreen.svg)](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
 
 
 This is ecmjohnson's resume! It was made using the fantastic [**Awesome CV**](https://github.com/posquit0/Awesome-CV) template created by [**posquit0**](https://github.com/posquit0). This LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** was inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
