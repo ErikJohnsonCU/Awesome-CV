@@ -20,6 +20,11 @@
 % A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, letterpaper]{awesome-cv}
 
+\usepackage{datetime}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
@@ -55,10 +60,10 @@
 \position{Engineer in Training{\enskip\cdotp\enskip}Electronics, Computation and Systems}
 \address{Ottawa, Ontario, Canada}
 
-\mobile{+1 (613) XXX-YYYY}
+\mobile{+1 (613) 325-6983}
 \email{ecmjohnson@hotmail.com}
 % \homepage{www.posquit0.com}
-\github{ErikJohnsonCU}
+\github{ecmjohnson}
 \linkedin{ecmjohnson}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
@@ -78,7 +83,7 @@
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
-  {\today}
+  {\monthyeardate\today}
   {Erik C.M. Johnson~~~·~~~Résumé}
   {\thepage}
 
