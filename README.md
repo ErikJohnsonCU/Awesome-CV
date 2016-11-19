@@ -21,7 +21,7 @@ Feel free to check out the résumé I built using this template [PDF](https://gi
 Highly recommended to start with your own fork of [posqui0's branch](https://github.com/posquit0/Awesome-CV).
 A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
 You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.)
-I would also recommend using a real-time build system like `latexmk` with a continuously updating viewer like Okular.
+I would also recommend using a real-time build system like `latexmk` with a continuously updating viewer like Okular (I use the command `latexmk -xelatex -pdf -pvc resume.tex`).
 
 
 ## Credit
