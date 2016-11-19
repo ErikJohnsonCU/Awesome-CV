@@ -26,7 +26,7 @@ I would also recommend using a real-time build system like `latexmk` with a cont
 
 ## Credit
 
-[**posquit0**](https://github.com/posquit0) is a software engineer from Korea who has made excellent contributions (including this wonderful template!) to the open source community. Check out [his website](https://posquit0.com/) if you want to know more about him.
+[**posquit0**](https://github.com/posquit0) is a software engineer from Korea who has made excellent contributions (including this wonderful template!) to the open source community.
 
 [**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
