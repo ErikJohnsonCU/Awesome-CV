@@ -1,13 +1,18 @@
-# Erik Johnson Résumé [![resume](https://img.shields.io/badge/resume-perfect-brightgreen.svg)](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
+# Erik Johnson's Résumé [![resume](https://img.shields.io/badge/resume-perfect-brightgreen.svg)](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
 
 
 This is ecmjohnson's resume! It was made using the fantastic [**Awesome CV**](https://github.com/posquit0/Awesome-CV) template created by [**posquit0**](https://github.com/posquit0). This LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** was inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
 
 ## My Résumé
 
-Feel free to check out the résumé I built using this template [PDF](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf)
+Feel free to check out the résumé I built using this template [PDF](https://github.com/ErikJohnsonCU/Awesome-CV/blob/master/erik/resume.pdf). See below if you'd like your resume to look as good as this one (experience not included).
 
-## Quick start your own
+## What is Awesome CV?
+
+**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+
+
+## Quick Start
 
 * [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
 * [**Edit Résumé on ShareLaTeX.com**](https://www.sharelatex.com/templates/cv-or-resume/awesome-cv)
@@ -18,10 +23,10 @@ Feel free to check out the résumé I built using this template [PDF](https://gi
 
 ## Slow start your own
 
-Highly recommended to start with your own fork of [posqui0's branch](https://github.com/posquit0/Awesome-CV).
+I highly recommend to start with your own fork of [posquit0's branch](https://github.com/posquit0/Awesome-CV).
 A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
 You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.)
-I would also recommend using a real-time build system like `latexmk` with a continuously updating viewer like Okular (I use the command `latexmk -xelatex -pvc resume.tex`).
+I would also recommend using a real-time build system like `latexmk` with a continuously updating viewer like Okular (I shell the command `latexmk -xelatex -pvc resume.tex` while I'm working on it).
 
 
 ## Credit
