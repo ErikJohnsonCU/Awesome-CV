@@ -84,7 +84,7 @@
 % Leave any of these blank if they are not needed
 \makecvfooter
   {\monthyeardate\today}
-  {Erik C.M. Johnson~~~·~~~Résumé}
+  {Erik C.M. Johnson~~~·~~~CV}
   {\thepage}
 
 
@@ -92,13 +92,14 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
+\input{cv/objective.tex}
 % \input{cv/summary.tex}
-\input{cv/education.tex}
-\input{cv/experience.tex}
+\input{common/education.tex}
+\input{common/experience.tex}
 % \input{cv/extracurricular.tex}
-\input{cv/projects.tex}
-\input{cv/volunteering.tex}
-\input{cv/skills.tex}
+\input{common/projects.tex}
+\input{common/volunteering.tex}
+\input{common/skills.tex}
 % \input{cv/honors.tex}
 % \input{cv/presentation.tex}
 % \input{cv/writing.tex}
